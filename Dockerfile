@@ -1,4 +1,3 @@
-   Dockerfile
    FROM maven:latest
    WORKDIR /app
    COPY pom.xml /app/
